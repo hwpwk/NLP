@@ -58,7 +58,7 @@ library(wordcloud)
 wordcloud(Filter_Freq_tweets_football$Term, Filter_Freq_tweets_football$Freq, random.order=FALSE,
           color=rainbow(5),random.color=FALSE,scale=c(2,1),min.freq=10)
 
-# グラフ描画
+# おまけ：グラフ描画
 library(ggplot2)
 
 ggplot(data = Filter_Freq_tweets_football) +
