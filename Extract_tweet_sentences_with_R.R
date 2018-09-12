@@ -5,10 +5,10 @@ install.packages('twitteR')
 library(twitteR)
 
 # TwitterAPIのKeyとTokenを読み込ませる
-consumerKey <- '5Csdd2iaISW1bg2oeZxpoTMvh'
-consumerSecret <- 'LAH3U4SqXPF2V8iP41IzjE6wLDkkxhXng0pqWSWt8Ih2XpEDwn'
-accessToken <- '959308856-exfnSMqXHpHCJABpuRAn8goNwvfljDzErwNVtt3V'
-accessTokenSecret <- 'KKtX4BwuPCtB3nxQBVJpMoK0quSjLcsbCUtq6mWjnRbmE'
+consumerKey <- '5.....'
+consumerSecret <- 'L.....'
+accessToken <- '9.....'
+accessTokenSecret <- 'K.....'
 
 # setup_twitter_oauth()関数の引数に先程のKeyとToken（の変数）を渡して、適当な変数に代入
 cred <- setup_twitter_oauth(
