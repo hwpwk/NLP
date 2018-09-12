@@ -1,2 +1,2 @@
 # NLP
-NLP関連ソースコード置き場
+Source code on natural language processing
