@@ -3,5 +3,7 @@
 キーワード
 
 ・word2vec
+
 ・doc2vec
+
 ・FastText
