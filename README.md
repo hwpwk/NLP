@@ -1,2 +1,6 @@
 # NLP
-Source code on natural language processing
+自然言語処理に関するソースコード
+キーワード
+・word2vec
+・doc2vec
+・FastText
