@@ -3,6 +3,12 @@
 
 キーワード
 
+・neologdn.normalize()
+
+・MeCab
+
+・neologd
+
 ・word2vec
 
 ・doc2vec
