@@ -1,0 +1,8 @@
+﻿# RMecabをインストール
+# https://momokogumi.com/r-mecab-rmecab
+install.packages("RMeCab", repos = "http://rmecab.jp/R")
+install.packages("wordcloud")
+
+
+
+
