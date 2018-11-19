@@ -14,3 +14,5 @@
 ・doc2vec
 
 ・FastText
+
+・TF-IDFTfidfvectorizer)
