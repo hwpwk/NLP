@@ -15,4 +15,4 @@
 
 ・FastText
 
-・TF-IDFTfidfvectorizer)
+・TF-IDF(Tfidfvectorizer)
